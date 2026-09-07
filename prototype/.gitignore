@@ -1,0 +1,15 @@
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+results/*
+!results/.gitkeep
+!results/*.md
+!results/*.csv
+!results/*.png
+results/quick/
+data/processed/quick/
+*.bak
+__pycache__/
+*.pyc
+*.pt

@@ -1,0 +1,6 @@
+# Already present in this environment (verified): pandas, numpy, scikit-learn,
+# scipy, matplotlib, joblib, torch 2.11.0+cu126
+#
+# Only these two need installing:
+transformers>=4.40
+pyarrow>=15.0
